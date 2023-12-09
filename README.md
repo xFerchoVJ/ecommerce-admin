@@ -11,6 +11,11 @@ npm i
 ```sh
 docker compose up
 ```
+
+## Run prisma migrations to add the tables to the database
+```sh
+npx prisma migrate dev
+```
 run the development server:
 
 ```bash
