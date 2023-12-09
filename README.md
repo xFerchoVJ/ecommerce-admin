@@ -7,6 +7,10 @@ npm i
 ```
 ## To test the functionality I left the .env file created with the variables ready
 
+## Run database with docker compose
+```sh
+docker compose up
+```
 run the development server:
 
 ```bash
@@ -19,12 +23,6 @@ pnpm dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-
-## Run database with docker compose
-After init the server run
-```sh
-docker compose up
-```
 
 # Features:
 - We will be using Shadcn UI for the Admin!
