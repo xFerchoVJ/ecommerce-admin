@@ -28,6 +28,7 @@ pnpm dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
+For DEMO, use [Stripe Testing Cards](https://stripe.com/docs/testing)
 
 # Features:
 - We will be using Shadcn UI for the Admin!
