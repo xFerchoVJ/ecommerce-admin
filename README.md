@@ -45,3 +45,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 - Stripe checkout
 - Stripe webhooks
 - MySQL + Prisma
+
+#Documentation Rest API
+Inside the docs directory.
