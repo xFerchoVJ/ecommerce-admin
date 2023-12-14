@@ -46,5 +46,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 - Stripe webhooks
 - MySQL + Prisma
 
-#Documentation Rest API
+# Documentation Rest API
 Inside the docs directory.
+https://github.com/xFerchoVJ/ecommerce-admin/tree/master/docs
